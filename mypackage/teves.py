@@ -13,4 +13,3 @@ def fake_profile():
     print("Name:", fake.name())
     print("Username:", fake.user_name())
     print("Email:", fake.email())
-    print(" ")
